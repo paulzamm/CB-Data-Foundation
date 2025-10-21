@@ -1,0 +1,1001 @@
+id_pedido,fecha,cliente,pais,producto,cantidad,precio_unitario,total
+B0001,2025-02-23,Ruth Ferrándiz Valbuena,Argentina,Impresora,4,300,1200
+B0002,2025-02-19,Sosimo Ramis León,Chile,Silla ergonómica,4,150,600
+B0003,2025-02-26,Isabela Cámara Zaragoza,Colombia,Silla ergonómica,4,150,600
+B0004,2025-02-20,Herberto Malo Galán,Ecuador,Router,4,100,400
+B0005,2025-02-17,Dulce de Bautista,Argentina,Impresora,5,300,1500
+B0006,2025-02-01,Jorge Tomé Pelayo,Perú,Router,5,100,500
+B0007,2025-02-16,Emilia Vicente Dominguez,Chile,Webcam,2,70,140
+B0008,2025-02-12,Itziar Cloe Coloma Llorens,Perú,Router,1,100,100
+B0009,2025-02-01,Juan Carlos Rafa Esteban Carmona,Ecuador,Laptop,4,950,3800
+B0010,2025-02-14,María Teresa Robledo Lorenzo,Chile,Router,2,100,200
+B0011,2025-02-08,Miriam Escamilla Rosales,Colombia,Router,1,100,100
+B0012,2025-02-08,Jordana Jurado,Colombia,Monitor,3,200,600
+B0013,2025-02-14,Armida Rubio Mercader,Perú,Silla ergonómica,5,150,750
+B0014,2025-02-09,Ángela Llamas,Chile,Audífonos,1,50,50
+B0015,2025-02-13,Zaira Llamas Cámara,Perú,Audífonos,3,50,150
+B0016,2025-02-26,Concepción Noriega Luján,Colombia,Teclado,1,35,35
+B0017,2025-02-08,Carlos Colom,Perú,Tablet,5,250,1250
+B0018,2025-02-08,Toni del Palacio,Argentina,Mouse,5,20,100
+B0019,2025-02-13,Griselda Naranjo,Perú,Monitor,2,200,400
+B0020,2025-02-13,Juan Francisco Ferrándiz Solís,Colombia,Mouse,4,20,80
+B0021,2025-02-21,Fernanda Riba,Perú,Router,1,100,100
+B0022,2025-02-01,César Meléndez Mercader,Chile,Teclado,1,35,35
+B0023,2025-02-01,Albina del Valdés,Ecuador,Laptop,3,950,2850
+B0024,2025-02-03,Etelvina de Solana,Perú,Webcam,5,70,350
+B0025,2025-02-19,Flavio Robles Casals,Argentina,Webcam,1,70,70
+B0026,2025-02-23,Édgar Frías Fábregas,Chile,Teclado,5,35,175
+B0027,2025-02-09,Patricia Carbó,Perú,Silla ergonómica,1,150,150
+B0028,2025-02-11,Roldán Baquero España,Perú,Monitor,2,200,400
+B0029,2025-02-24,Emilio Borrás-Comas,Chile,Router,4,100,400
+B0030,2025-02-04,José María Agustí Cuadrado,Argentina,Router,1,100,100
+B0031,2025-02-12,Carmelita Berrocal-Feijoo,Colombia,Impresora,5,300,1500
+B0032,2025-02-17,Nazaret Asensio Quirós,Colombia,Laptop,2,950,1900
+B0033,2025-02-08,Salomón Arcos Zapata,Ecuador,Webcam,1,70,70
+B0034,2025-02-04,Valeria Botella Lucas,Argentina,Router,3,100,300
+B0035,2025-02-18,Susanita Arribas Cánovas,Chile,Monitor,4,200,800
+B0036,2025-02-20,Ana Ibarra Ruano,Argentina,Audífonos,1,50,50
+B0037,2025-02-07,Juan Pablo Rueda Cepeda,Ecuador,Laptop,2,950,1900
+B0038,2025-02-14,Ámbar Perea,Perú,Router,3,100,300
+B0039,2025-02-03,Francisco Jose Cazorla,Argentina,Router,2,100,200
+B0040,2025-02-03,Luís Bastida Rivero,Perú,Tablet,2,250,500
+B0041,2025-02-06,Lara Cruz Torrens,Ecuador,Mouse,3,20,60
+B0042,2025-02-02,Pablo Feliu,Colombia,Teclado,2,35,70
+B0043,2025-02-23,Candelaria Valle Ricart,Perú,Audífonos,3,50,150
+B0044,2025-02-11,Candela Álvaro Piquer,Colombia,Audífonos,1,50,50
+B0045,2025-02-06,Maite Prada Casals,Ecuador,Webcam,3,70,210
+B0046,2025-02-19,Encarnación Barón Segura,Ecuador,Silla ergonómica,3,150,450
+B0047,2025-02-18,Benita Lozano Ortega,Argentina,Monitor,4,200,800
+B0048,2025-02-06,Fausto Gomez Blanes,Perú,Tablet,3,250,750
+B0049,2025-02-27,Santos Bayona,Perú,Mouse,3,20,60
+B0050,2025-02-14,Diana Rocha Mendizábal,Colombia,Tablet,1,250,250
+B0051,2025-02-14,Roberto Solé Morera,Colombia,Tablet,4,250,1000
+B0052,2025-02-21,Vidal del Pons,Perú,Silla ergonómica,5,150,750
+B0053,2025-02-04,Aurora Cid Casares,Argentina,Mouse,1,20,20
+B0054,2025-02-20,Eladio Díaz Riera,Chile,Mouse,1,20,20
+B0055,2025-02-04,Lucila Eloísa Cuenca Ricart,Colombia,Audífonos,5,50,250
+B0056,2025-02-23,Ambrosio Corominas-Roldán,Perú,Tablet,3,250,750
+B0057,2025-02-04,Desiderio de Beltrán,Perú,Teclado,2,35,70
+B0058,2025-02-06,Selena Belén Barranco Castellanos,Chile,Silla ergonómica,4,150,600
+B0059,2025-02-03,Sabas Pellicer Benavente,Argentina,Webcam,2,70,140
+B0060,2025-02-03,Tamara Jover Beltran,Argentina,Laptop,5,950,4750
+B0061,2025-02-08,Ignacio Joan Castell Sastre,Ecuador,Laptop,1,950,950
+B0062,2025-02-14,Javier Francisco Feijoo Pinilla,Chile,Audífonos,1,50,50
+B0063,2025-02-06,Gaspar Maximino Muro Narváez,Colombia,Tablet,4,250,1000
+B0064,2025-02-24,Gracia Diaz Álvaro,Colombia,Teclado,1,35,35
+B0065,2025-02-01,Duilio de Uribe,Argentina,Tablet,1,250,250
+B0066,2025-02-02,Fabián Martí Santamaría,Chile,Audífonos,4,50,200
+B0067,2025-02-19,Natalio Ferrán Ródenas,Argentina,Audífonos,4,50,200
+B0068,2025-02-13,Águeda Porras Palau,Chile,Webcam,5,70,350
+B0069,2025-02-11,Esperanza Acedo,Argentina,Impresora,1,300,300
+B0070,2025-02-25,Lorenzo Priego Carpio,Argentina,Audífonos,1,50,50
+B0071,2025-02-12,Segismundo Carreras Robles,Argentina,Tablet,5,250,1250
+B0072,2025-02-26,Corona Mendizábal Mur,Argentina,Router,3,100,300
+B0073,2025-02-08,Patricio Armando Oliveras Gonzalo,Argentina,Impresora,3,300,900
+B0074,2025-02-23,Noé Oliver Soto,Colombia,Laptop,3,950,2850
+B0075,2025-02-16,Asunción Iglesia Santamaría,Perú,Audífonos,5,50,250
+B0076,2025-02-12,Lourdes Manzanares,Ecuador,Webcam,1,70,70
+B0077,2025-02-09,Gilberto del Peinado,Argentina,Impresora,5,300,1500
+B0078,2025-02-10,Jennifer Santos Alcalá,Ecuador,Silla ergonómica,5,150,750
+B0079,2025-02-05,Dolores Lledó Hernando,Colombia,Impresora,3,300,900
+B0080,2025-02-23,Basilio Huerta Barros,Argentina,Silla ergonómica,2,150,300
+B0081,2025-02-06,María Fernanda Gargallo Gordillo,Chile,Laptop,1,950,950
+B0082,2025-02-16,Esmeralda Higueras Barragán,Argentina,Router,3,100,300
+B0083,2025-02-03,Domingo Pujadas Acero,Chile,Tablet,2,250,500
+B0084,2025-02-18,Filomena Olmo Martorell,Argentina,Webcam,2,70,140
+B0085,2025-02-03,Melchor Iborra Rocha,Chile,Monitor,4,200,800
+B0086,2025-02-13,Chuy Amancio Cueto Montoya,Ecuador,Silla ergonómica,1,150,150
+B0087,2025-02-19,Martina Magdalena Castells Benito,Ecuador,Monitor,2,200,400
+B0088,2025-02-02,Casandra Tomás Batalla,Ecuador,Router,3,100,300
+B0089,2025-02-26,Sergio Reina Guitart,Perú,Webcam,4,70,280
+B0090,2025-02-26,Nazaret Blanco Marín,Chile,Webcam,1,70,70
+B0091,2025-02-14,Marcos Casanova-Echevarría,Chile,Webcam,5,70,350
+B0092,2025-02-10,Moreno Calvet Bonilla,Argentina,Silla ergonómica,3,150,450
+B0093,2025-02-09,Pedro del Coll,Colombia,Laptop,2,950,1900
+B0094,2025-02-14,Julia Otero Ros,Chile,Tablet,2,250,500
+B0095,2025-02-19,Rogelio Pou Cerdán,Chile,Tablet,3,250,750
+B0096,2025-02-12,Faustino Américo Lladó Casanovas,Perú,Router,2,100,200
+B0097,2025-02-06,María Belén Parra Girón,Argentina,Webcam,4,70,280
+B0098,2025-02-26,Diego Fausto Elías Roselló,Perú,Teclado,1,35,35
+B0099,2025-02-14,Piedad Solana Sanmartín,Colombia,Tablet,4,250,1000
+B0100,2025-02-07,María Fernanda Briones-Neira,Perú,Tablet,2,250,500
+B0101,2025-02-22,Vasco Quirós Muñoz,Perú,Impresora,5,300,1500
+B0102,2025-02-11,Marc Canet,Argentina,Router,1,100,100
+B0103,2025-02-06,Jafet Roda Prat,Chile,Monitor,1,200,200
+B0104,2025-02-15,Amarilis Jessica Prieto Pazos,Perú,Tablet,3,250,750
+B0105,2025-02-18,Florina Castejón Navarrete,Perú,Monitor,3,200,600
+B0106,2025-02-14,Mirta Bermejo Iriarte,Perú,Impresora,5,300,1500
+B0107,2025-02-18,Remigio del Solé,Chile,Router,1,100,100
+B0108,2025-02-20,Alejandra Bayón Mir,Perú,Router,5,100,500
+B0109,2025-02-24,José Luis Teodosio Roselló Noriega,Perú,Tablet,3,250,750
+B0110,2025-02-11,Salvador Piñeiro Andrade,Perú,Impresora,3,300,900
+B0111,2025-02-02,Emma Filomena Romero Salom,Ecuador,Silla ergonómica,1,150,150
+B0112,2025-02-01,Vicenta de Múñiz,Argentina,Webcam,4,70,280
+B0113,2025-02-15,Margarita Goicoechea Beltrán,Colombia,Audífonos,2,50,100
+B0114,2025-02-11,Emelina Zurita,Chile,Impresora,3,300,900
+B0115,2025-02-12,Aníbal Rosado Torres,Ecuador,Impresora,3,300,900
+B0116,2025-02-26,Timoteo del Hervás,Ecuador,Audífonos,4,50,200
+B0117,2025-02-20,Damián Llopis Crespo,Colombia,Impresora,4,300,1200
+B0118,2025-02-25,Flavia Bou Hernandez,Colombia,Monitor,5,200,1000
+B0119,2025-02-07,Paca de Luz,Chile,Tablet,5,250,1250
+B0120,2025-02-07,Felipe Molins Bas,Perú,Tablet,2,250,500
+B0121,2025-02-10,Edu Falcó Infante,Perú,Teclado,2,35,70
+B0122,2025-02-14,Calixta Palacios,Ecuador,Silla ergonómica,1,150,150
+B0123,2025-02-03,Macaria Cortes Olmo,Argentina,Monitor,5,200,1000
+B0124,2025-02-24,Haydée Murcia Diez,Chile,Laptop,3,950,2850
+B0125,2025-02-07,Gabino Guillén Barroso,Argentina,Monitor,5,200,1000
+B0126,2025-02-13,Corona Barros,Chile,Laptop,3,950,2850
+B0127,2025-02-01,Cornelio Solís-Escobar,Ecuador,Webcam,4,70,280
+B0128,2025-02-16,Nando Seve Franco Mendizábal,Perú,Router,5,100,500
+B0129,2025-02-06,Mario Gimeno,Ecuador,Teclado,4,35,140
+B0130,2025-02-25,Josefina Guzmán Mariño,Ecuador,Tablet,2,250,500
+B0131,2025-02-18,Horacio Alvarado Gomis,Chile,Webcam,2,70,140
+B0132,2025-02-18,Genoveva Solano Serra,Colombia,Router,1,100,100
+B0133,2025-02-04,Rosario Mateu Baños,Chile,Impresora,5,300,1500
+B0134,2025-02-17,Benigna Gil Ayllón,Perú,Impresora,4,300,1200
+B0135,2025-02-26,Lina Pedraza Luna,Ecuador,Mouse,3,20,60
+B0136,2025-02-15,Blanca Viana,Argentina,Monitor,2,200,400
+B0137,2025-02-26,Pepita Patiño,Argentina,Laptop,2,950,1900
+B0138,2025-02-23,María Dolores Manrique,Chile,Webcam,3,70,210
+B0139,2025-02-16,Bibiana Castrillo Conde,Chile,Laptop,4,950,3800
+B0140,2025-02-05,Begoña de Fiol,Colombia,Router,4,100,400
+B0141,2025-02-10,Sara Palomares Miranda,Chile,Impresora,5,300,1500
+B0142,2025-02-07,Luis Miguel del Ramírez,Ecuador,Laptop,5,950,4750
+B0143,2025-02-04,Aníbal Colomer Ojeda,Perú,Silla ergonómica,1,150,150
+B0144,2025-02-21,Macarena Abella Benet,Argentina,Mouse,2,20,40
+B0145,2025-02-24,Cornelio Andreu Corominas,Perú,Impresora,5,300,1500
+B0146,2025-02-21,Soraya de Echeverría,Colombia,Tablet,4,250,1000
+B0147,2025-02-02,Edelmiro Giner-Casal,Argentina,Router,3,100,300
+B0148,2025-02-13,Albino Vilalta Cortes,Chile,Tablet,4,250,1000
+B0149,2025-02-17,Nélida del Trujillo,Colombia,Impresora,2,300,600
+B0150,2025-02-20,Adalberto Arribas Paz,Chile,Mouse,4,20,80
+B0151,2025-02-11,Abilio Morcillo Escobar,Perú,Teclado,1,35,35
+B0152,2025-02-15,Belén Aurelia Salvà Nogueira,Colombia,Impresora,2,300,600
+B0153,2025-02-07,María Fernanda del Anguita,Chile,Laptop,3,950,2850
+B0154,2025-02-14,Ricardo de Arnaiz,Perú,Impresora,1,300,300
+B0155,2025-02-18,Ruben Arévalo Abad,Argentina,Monitor,2,200,400
+B0156,2025-02-21,Omar Núñez Hervás,Chile,Silla ergonómica,3,150,450
+B0157,2025-02-04,Elvira Abella Valdés,Colombia,Webcam,1,70,70
+B0158,2025-02-09,Bartolomé Carreño Martínez,Argentina,Audífonos,1,50,50
+B0159,2025-02-27,Quirino Manso Álamo,Ecuador,Webcam,2,70,140
+B0160,2025-02-05,Saturnina Nogués,Ecuador,Teclado,5,35,175
+B0161,2025-02-13,Viviana Ribas Andrade,Chile,Router,1,100,100
+B0162,2025-02-17,Sara Piquer-Ripoll,Perú,Monitor,1,200,200
+B0163,2025-02-14,Xiomara Baños,Ecuador,Impresora,3,300,900
+B0164,2025-02-20,Quique Bonet,Colombia,Monitor,4,200,800
+B0165,2025-02-16,Carmela Robledo Hurtado,Colombia,Impresora,2,300,600
+B0166,2025-02-19,Raquel Manuel Gárate,Perú,Impresora,2,300,600
+B0167,2025-02-19,René Mariscal-Colomer,Argentina,Silla ergonómica,5,150,750
+B0168,2025-02-09,Leopoldo Vargas-Sans,Ecuador,Impresora,5,300,1500
+B0169,2025-02-14,Venceslás Mulet Navas,Perú,Monitor,2,200,400
+B0170,2025-02-11,Ariel del Azorin,Ecuador,Mouse,5,20,100
+B0171,2025-02-14,Mónica Sanmartín Taboada,Colombia,Impresora,3,300,900
+B0172,2025-02-20,Luna Sainz Rubio,Chile,Webcam,2,70,140
+B0173,2025-02-20,Tamara Fátima Calleja Taboada,Argentina,Impresora,5,300,1500
+B0174,2025-02-07,Josefina Graciela Ayuso Moya,Ecuador,Impresora,2,300,600
+B0175,2025-02-07,Íngrid Arana-Barragán,Perú,Silla ergonómica,4,150,600
+B0176,2025-02-07,Gala del Peñas,Chile,Monitor,1,200,200
+B0177,2025-02-27,Teófila Soriano Blazquez,Chile,Router,2,100,200
+B0178,2025-02-19,Benito Tejedor,Chile,Router,1,100,100
+B0179,2025-02-10,Roberta Aramburu Lucas,Argentina,Audífonos,5,50,250
+B0180,2025-02-01,Rebeca Quintana Becerra,Colombia,Tablet,1,250,250
+B0181,2025-02-16,Andrés Morán Casanova,Colombia,Tablet,2,250,500
+B0182,2025-02-07,Eugenio de Llorens,Chile,Monitor,4,200,800
+B0183,2025-02-07,Raimundo Bernad Luís,Argentina,Mouse,5,20,100
+B0184,2025-02-11,Sara Villena,Argentina,Router,2,100,200
+B0185,2025-02-11,Cirino Julio César Carlos Malo,Argentina,Audífonos,5,50,250
+B0186,2025-02-22,Nadia Seguí,Ecuador,Silla ergonómica,3,150,450
+B0187,2025-02-25,Alberto Goñi,Ecuador,Laptop,1,950,950
+B0188,2025-02-12,Catalina Ferrera-Asensio,Argentina,Tablet,3,250,750
+B0189,2025-02-20,Dan de Saura,Chile,Silla ergonómica,2,150,300
+B0190,2025-02-25,Xavier Villalba Bilbao,Argentina,Teclado,4,35,140
+B0191,2025-02-20,Cayetana de Bustos,Chile,Audífonos,5,50,250
+B0192,2025-02-17,Nicolás Jara Roma,Argentina,Router,1,100,100
+B0193,2025-02-19,José Ferreras Gallart,Ecuador,Monitor,5,200,1000
+B0194,2025-02-27,Yéssica Sevillano Cuesta,Argentina,Router,2,100,200
+B0195,2025-02-23,Pablo Noriega-Ayuso,Ecuador,Tablet,5,250,1250
+B0196,2025-02-21,Claudio Acuña Nicolau,Colombia,Laptop,1,950,950
+B0197,2025-02-14,Nayara Quintanilla Gálvez,Colombia,Teclado,2,35,70
+B0198,2025-02-05,Natalio Carnero Adán,Argentina,Webcam,5,70,350
+B0199,2025-02-19,Severo Hoz García,Colombia,Silla ergonómica,4,150,600
+B0200,2025-02-10,Flor Franch,Ecuador,Tablet,2,250,500
+B0201,2025-02-18,Guillermo Ferrández Moll,Colombia,Impresora,2,300,600
+B0202,2025-02-07,Constanza Viana Cortés,Ecuador,Webcam,4,70,280
+B0203,2025-02-22,Abigaíl Alvarado Garmendia,Perú,Laptop,3,950,2850
+B0204,2025-02-23,Urbano Olmo Lillo,Chile,Silla ergonómica,1,150,150
+B0205,2025-02-20,Luz Porras-Vallejo,Ecuador,Laptop,3,950,2850
+B0206,2025-02-12,Palmira Perera Castells,Colombia,Audífonos,5,50,250
+B0207,2025-02-01,Joel Jose Ignacio Nicolau Guerra,Ecuador,Tablet,4,250,1000
+B0208,2025-02-19,Tomás Marino Ramírez Rojas,Ecuador,Mouse,3,20,60
+B0209,2025-02-01,Candelaria Conesa Talavera,Colombia,Laptop,2,950,1900
+B0210,2025-02-17,Mar Eligia Mateos Tovar,Perú,Webcam,5,70,350
+B0211,2025-02-16,Hector de Dalmau,Chile,Teclado,5,35,175
+B0212,2025-02-23,Consuela Mariscal-Alcaraz,Colombia,Audífonos,3,50,150
+B0213,2025-02-04,Silvestre Valencia Pazos,Colombia,Router,3,100,300
+B0214,2025-02-22,Ciríaco Salas Águila,Colombia,Webcam,4,70,280
+B0215,2025-02-06,Nydia Batlle Caro,Ecuador,Tablet,1,250,250
+B0216,2025-02-23,Saturnino Puente Vicente,Chile,Audífonos,3,50,150
+B0217,2025-02-23,Teófila Méndez Suárez,Ecuador,Teclado,3,35,105
+B0218,2025-02-08,Violeta de Vaquero,Argentina,Webcam,2,70,140
+B0219,2025-02-06,Paula Vizcaíno Segarra,Argentina,Teclado,5,35,175
+B0220,2025-02-02,Federico Marquez Girona,Chile,Laptop,1,950,950
+B0221,2025-02-23,Apolinar Somoza Navarro,Ecuador,Impresora,2,300,600
+B0222,2025-02-17,Timoteo del Sánchez,Colombia,Tablet,4,250,1000
+B0223,2025-02-12,Felisa Espinosa Armas,Colombia,Tablet,4,250,1000
+B0224,2025-02-25,Arturo Abel Llorens Gallart,Colombia,Monitor,3,200,600
+B0225,2025-02-26,Jessica Carvajal Saavedra,Chile,Router,3,100,300
+B0226,2025-02-11,Leonor Arnaiz Barranco,Perú,Teclado,4,35,140
+B0227,2025-02-14,Álvaro Capdevila Mariño,Perú,Monitor,3,200,600
+B0228,2025-02-26,Buenaventura Ruano Gutierrez,Ecuador,Laptop,1,950,950
+B0229,2025-02-24,Fausto Aitor Perales Palmer,Colombia,Silla ergonómica,3,150,450
+B0230,2025-02-08,Jordana Lozano,Ecuador,Monitor,5,200,1000
+B0231,2025-02-13,Ismael Pont-Lledó,Chile,Mouse,3,20,60
+B0232,2025-02-26,Jordi Mateo Alcázar,Ecuador,Silla ergonómica,2,150,300
+B0233,2025-02-14,Tatiana Mesa Blanca,Ecuador,Router,1,100,100
+B0234,2025-02-21,Leticia Salgado Feliu,Argentina,Laptop,2,950,1900
+B0235,2025-02-25,Eladio Marí Farré,Chile,Laptop,2,950,1900
+B0236,2025-02-02,Ale Edelmiro Doménech Villar,Colombia,Router,5,100,500
+B0237,2025-02-01,Dionisia Segarra Saldaña,Chile,Tablet,1,250,250
+B0238,2025-02-08,Yago Camps-Calvet,Chile,Laptop,1,950,950
+B0239,2025-02-16,Dionisia Barrios Alemán,Chile,Tablet,1,250,250
+B0240,2025-02-26,Teodoro Lastra Pereira,Perú,Monitor,1,200,200
+B0241,2025-02-22,Benjamín Briones Llobet,Argentina,Audífonos,1,50,50
+B0242,2025-02-07,Balduino Nicolás Goicoechea,Argentina,Silla ergonómica,5,150,750
+B0243,2025-02-13,Malena Riera Patiño,Perú,Monitor,3,200,600
+B0244,2025-02-02,Rosa María Nicolás,Perú,Teclado,2,35,70
+B0245,2025-02-22,Lalo Iriarte-Pi,Argentina,Monitor,1,200,200
+B0246,2025-02-13,Yago de Redondo,Colombia,Impresora,3,300,900
+B0247,2025-02-06,Rosaura Serrano Estrada,Perú,Laptop,3,950,2850
+B0248,2025-02-06,Melisa Bárcena Daza,Argentina,Silla ergonómica,2,150,300
+B0249,2025-02-12,Reyes Duran Porras,Chile,Webcam,5,70,350
+B0250,2025-02-11,Ignacia Marin Millán,Argentina,Router,4,100,400
+B0251,2025-02-27,Clímaco Gárate Ortega,Ecuador,Audífonos,4,50,200
+B0252,2025-02-20,Salomón Rincón Mancebo,Colombia,Tablet,3,250,750
+B0253,2025-02-19,Gertrudis Mendez-Pinedo,Perú,Webcam,2,70,140
+B0254,2025-02-16,Calixta de Amo,Colombia,Teclado,4,35,140
+B0255,2025-02-03,Visitación Angélica Simó Rojas,Perú,Webcam,3,70,210
+B0256,2025-02-26,Leocadia Santamaría Noguera,Chile,Tablet,5,250,1250
+B0257,2025-02-21,Martín Luque,Colombia,Monitor,4,200,800
+B0258,2025-02-21,Amarilis Arnaiz,Chile,Impresora,3,300,900
+B0259,2025-02-08,Máxima Berta Luna Bello,Chile,Router,3,100,300
+B0260,2025-02-16,Reina del Palau,Ecuador,Tablet,1,250,250
+B0261,2025-02-27,Haroldo Serrano Moya,Colombia,Webcam,5,70,350
+B0262,2025-02-27,Matías Tejero Saavedra,Argentina,Tablet,1,250,250
+B0263,2025-02-01,Domitila Sala Mateos,Chile,Webcam,2,70,140
+B0264,2025-02-23,Seve Cabrera Pagès,Chile,Impresora,1,300,300
+B0265,2025-02-27,Jenaro Mateu Valera,Chile,Audífonos,1,50,50
+B0266,2025-02-04,Felipe Ochoa-Donaire,Ecuador,Router,4,100,400
+B0267,2025-02-11,Timoteo Gomila Garrido,Perú,Mouse,3,20,60
+B0268,2025-02-08,Gloria Cobo Montes,Argentina,Monitor,5,200,1000
+B0269,2025-02-14,Eli Cuesta Báez,Ecuador,Impresora,1,300,300
+B0270,2025-02-27,Clementina Sancho,Colombia,Silla ergonómica,5,150,750
+B0271,2025-02-01,José Cámara Salgado,Argentina,Laptop,1,950,950
+B0272,2025-02-10,Lupe Escribano Garrido,Ecuador,Monitor,2,200,400
+B0273,2025-02-12,Andrea Higueras Cadenas,Argentina,Tablet,1,250,250
+B0274,2025-02-02,Sol Julieta Sánchez Prada,Chile,Router,4,100,400
+B0275,2025-02-09,Martín Trinidad Salgado Marco,Chile,Audífonos,3,50,150
+B0276,2025-02-23,Cruz Calvo Falcón,Perú,Laptop,2,950,1900
+B0277,2025-02-05,Ana Plana Pastor,Chile,Monitor,1,200,200
+B0278,2025-02-01,Maristela Belén Murcia Arribas,Ecuador,Router,5,100,500
+B0279,2025-02-09,Paulino del Gaya,Chile,Silla ergonómica,2,150,300
+B0280,2025-02-07,Chema Tomás Almagro Arias,Chile,Webcam,2,70,140
+B0281,2025-02-07,Araceli Begoña Ballesteros Ruano,Chile,Tablet,1,250,250
+B0282,2025-02-15,Isaías Anguita-Feliu,Perú,Impresora,2,300,600
+B0283,2025-02-13,Melisa Jerez Arévalo,Colombia,Router,5,100,500
+B0284,2025-02-25,Juan José Peinado,Argentina,Audífonos,2,50,100
+B0285,2025-02-19,Régulo Novoa-Fuertes,Perú,Impresora,5,300,1500
+B0286,2025-02-20,Silvestre Arce Tejedor,Perú,Tablet,1,250,250
+B0287,2025-02-26,Manuel Carro Bastida,Colombia,Router,3,100,300
+B0288,2025-02-23,Osvaldo Porta,Ecuador,Router,2,100,200
+B0289,2025-02-15,Luís Cámara,Perú,Monitor,3,200,600
+B0290,2025-02-04,Toribio Guiomar Vaquero Arteaga,Perú,Audífonos,5,50,250
+B0291,2025-02-05,Abraham Moll Saavedra,Colombia,Laptop,2,950,1900
+B0292,2025-02-12,Fortunato de Gutierrez,Argentina,Monitor,4,200,800
+B0293,2025-02-19,Teófila de Garrido,Chile,Laptop,3,950,2850
+B0294,2025-02-17,Eliseo Ruiz Mate,Perú,Tablet,2,250,500
+B0295,2025-02-19,Angelina Requena-Prado,Argentina,Silla ergonómica,3,150,450
+B0296,2025-02-04,Raimundo Carretero,Colombia,Impresora,2,300,600
+B0297,2025-02-15,Marcela del Farré,Chile,Monitor,1,200,200
+B0298,2025-02-27,Severo de Iglesia,Perú,Monitor,3,200,600
+B0299,2025-02-08,Ale Pont-Muñoz,Colombia,Silla ergonómica,4,150,600
+B0300,2025-02-17,Nieves Quintanilla Manuel,Chile,Router,4,100,400
+B0301,2025-02-08,Anunciación de Gabaldón,Argentina,Audífonos,5,50,250
+B0302,2025-02-08,María Dolores Cardona Manzano,Perú,Router,2,100,200
+B0303,2025-02-12,Fátima Loida Mateos Maldonado,Colombia,Router,3,100,300
+B0304,2025-02-06,Jacobo Olivares Esteve,Chile,Audífonos,5,50,250
+B0305,2025-02-24,Gustavo Bautista Carrillo,Chile,Teclado,3,35,105
+B0306,2025-02-08,María Jesús Cadenas-Quevedo,Argentina,Router,2,100,200
+B0307,2025-02-24,Clarisa Águila Bayona,Chile,Tablet,4,250,1000
+B0308,2025-02-10,Plinio Cantero Olivares,Ecuador,Tablet,1,250,250
+B0309,2025-02-04,Amelia del Andres,Ecuador,Mouse,4,20,80
+B0310,2025-02-11,Gisela Valdés,Ecuador,Laptop,5,950,4750
+B0311,2025-02-05,Luis Amaya Cabello,Colombia,Teclado,1,35,35
+B0312,2025-02-27,Natividad Alegria-Salvà,Chile,Mouse,5,20,100
+B0313,2025-02-13,Juan Antonio Anglada Prats,Chile,Laptop,2,950,1900
+B0314,2025-02-05,Marino Gras-Viñas,Chile,Tablet,1,250,250
+B0315,2025-02-26,María Luisa Rosa,Colombia,Audífonos,5,50,250
+B0316,2025-02-18,Rafaela Riquelme Armengol,Ecuador,Silla ergonómica,2,150,300
+B0317,2025-02-10,Elías del Andreu,Argentina,Router,4,100,400
+B0318,2025-02-01,Nuria Castellanos Serrano,Colombia,Laptop,2,950,1900
+B0319,2025-02-15,Nazaret de Carrión,Ecuador,Tablet,3,250,750
+B0320,2025-02-09,Anna Patiño,Argentina,Webcam,2,70,140
+B0321,2025-02-25,Leonel Duarte Gimeno,Ecuador,Laptop,2,950,1900
+B0322,2025-02-01,Nazario Sales Dueñas,Argentina,Impresora,3,300,900
+B0323,2025-02-02,Rita Vicente,Argentina,Impresora,5,300,1500
+B0324,2025-02-22,Claudia Trujillo Rodrigo,Ecuador,Tablet,5,250,1250
+B0325,2025-02-24,Adriana Company Pablo,Colombia,Teclado,2,35,70
+B0326,2025-02-01,Alfredo Acevedo Peiró,Ecuador,Mouse,3,20,60
+B0327,2025-02-17,Epifanio Sans,Argentina,Teclado,3,35,105
+B0328,2025-02-24,Amaro Olivé,Chile,Monitor,4,200,800
+B0329,2025-02-12,Albano del Arias,Argentina,Tablet,5,250,1250
+B0330,2025-02-17,Ciro Pedrero,Perú,Audífonos,1,50,50
+B0331,2025-02-12,Duilio Corbacho Ortega,Perú,Webcam,5,70,350
+B0332,2025-02-24,Josefa Sanjuan,Ecuador,Audífonos,5,50,250
+B0333,2025-02-02,Amalia Coronado Valera,Colombia,Router,4,100,400
+B0334,2025-02-13,Cristóbal Arnau Gisbert,Argentina,Monitor,1,200,200
+B0335,2025-02-03,Jose Saez Macías,Chile,Impresora,4,300,1200
+B0336,2025-02-08,Bernarda Sofía Leon Cifuentes,Ecuador,Laptop,1,950,950
+B0337,2025-02-16,Victorino Jimenez Fábregas,Ecuador,Webcam,2,70,140
+B0338,2025-02-02,Luisina Medina Valcárcel,Colombia,Webcam,1,70,70
+B0339,2025-02-07,Vito Sales Juárez,Argentina,Router,4,100,400
+B0340,2025-02-27,Luisina del Córdoba,Ecuador,Laptop,5,950,4750
+B0341,2025-02-14,Ámbar Coral Mariscal Mayo,Chile,Mouse,1,20,20
+B0342,2025-02-06,Cristóbal del Tena,Colombia,Webcam,1,70,70
+B0343,2025-02-05,Pelayo Chaves Echeverría,Perú,Silla ergonómica,3,150,450
+B0344,2025-02-27,Edu Manzanares Flor,Ecuador,Tablet,5,250,1250
+B0345,2025-02-05,Eloísa Pinedo-Roselló,Ecuador,Monitor,2,200,400
+B0346,2025-02-19,Herminia Diez Solano,Chile,Silla ergonómica,4,150,600
+B0347,2025-02-08,Eustaquio Girona-Martorell,Colombia,Impresora,2,300,600
+B0348,2025-02-01,Patricia Heredia,Ecuador,Mouse,5,20,100
+B0349,2025-02-23,Cecilia Casas Cuevas,Perú,Tablet,1,250,250
+B0350,2025-02-17,Edelmiro Vega,Argentina,Laptop,1,950,950
+B0351,2025-02-22,Hilario Joaquín Alfonso Cobo,Chile,Audífonos,5,50,250
+B0352,2025-02-10,Albano Vilar-Murcia,Ecuador,Monitor,1,200,200
+B0353,2025-02-12,Emelina Sáez Mas,Argentina,Teclado,1,35,35
+B0354,2025-02-16,Ainara Castañeda Zapata,Colombia,Mouse,1,20,20
+B0355,2025-02-14,Nilo Vendrell Huerta,Perú,Teclado,4,35,140
+B0356,2025-02-21,Emiliano del Aragón,Argentina,Monitor,4,200,800
+B0357,2025-02-20,Constanza Verdugo Peñas,Argentina,Webcam,3,70,210
+B0358,2025-02-02,Sofía Salazar Elías,Argentina,Audífonos,2,50,100
+B0359,2025-02-09,Alex del Ordóñez,Colombia,Teclado,5,35,175
+B0360,2025-02-22,Florina Cámara Acedo,Ecuador,Tablet,5,250,1250
+B0361,2025-02-06,Nadia Gallego Cervera,Perú,Laptop,5,950,4750
+B0362,2025-02-09,Cristian Juan Manuel Sevilla Higueras,Ecuador,Webcam,3,70,210
+B0363,2025-02-17,Pastor Torrijos Leon,Chile,Mouse,4,20,80
+B0364,2025-02-10,Ainara Robles Rincón,Perú,Silla ergonómica,3,150,450
+B0365,2025-02-27,Hipólito Juan Antonio Tur Dalmau,Argentina,Silla ergonómica,5,150,750
+B0366,2025-02-26,Gabino Gomila Martin,Colombia,Audífonos,2,50,100
+B0367,2025-02-26,Clemente de Ruano,Ecuador,Impresora,1,300,300
+B0368,2025-02-09,Macario Bru Pallarès,Colombia,Router,4,100,400
+B0369,2025-02-16,María Peñalver Mas,Chile,Audífonos,4,50,200
+B0370,2025-02-08,Eugenio Lloret,Argentina,Webcam,3,70,210
+B0371,2025-02-14,Ciro Bayón Sanabria,Colombia,Teclado,4,35,140
+B0372,2025-02-07,Nazaret Jovita Dávila Becerra,Argentina,Webcam,5,70,350
+B0373,2025-02-17,Jose Manuel Espinosa Valbuena,Ecuador,Silla ergonómica,5,150,750
+B0374,2025-02-10,Rosa Cañizares Guardiola,Perú,Monitor,3,200,600
+B0375,2025-02-11,Patricia de Tur,Ecuador,Mouse,5,20,100
+B0376,2025-02-07,Demetrio Gomila,Perú,Teclado,2,35,70
+B0377,2025-02-18,Ignacio Vallés Hurtado,Colombia,Teclado,3,35,105
+B0378,2025-02-17,Francisco Jose Ramos Menéndez,Colombia,Audífonos,2,50,100
+B0379,2025-02-21,Odalys Garzón Chamorro,Perú,Mouse,1,20,20
+B0380,2025-02-19,Dalila Palomar-Romeu,Ecuador,Laptop,2,950,1900
+B0381,2025-02-25,Paulino del Mayoral,Perú,Router,1,100,100
+B0382,2025-02-24,Dionisia Roberta Busquets Aguiló,Perú,Impresora,1,300,300
+B0383,2025-02-11,Encarnación Arteaga Becerra,Ecuador,Teclado,2,35,70
+B0384,2025-02-15,Quique Teruel Calvo,Ecuador,Teclado,3,35,105
+B0385,2025-02-10,Seve Almazán-Agustí,Colombia,Router,5,100,500
+B0386,2025-02-13,Pío Uribe,Argentina,Tablet,5,250,1250
+B0387,2025-02-27,Yago Castañeda Infante,Argentina,Webcam,1,70,70
+B0388,2025-02-26,Lilia Viana-Izaguirre,Ecuador,Laptop,1,950,950
+B0389,2025-02-08,Mohamed Blasco,Ecuador,Audífonos,3,50,150
+B0390,2025-02-16,Carmelo Carballo Lasa,Argentina,Mouse,4,20,80
+B0391,2025-02-23,Vinicio Iniesta Arana,Argentina,Silla ergonómica,2,150,300
+B0392,2025-02-18,Silvia del Ros,Perú,Webcam,1,70,70
+B0393,2025-02-14,Obdulia Tapia Artigas,Ecuador,Impresora,5,300,1500
+B0394,2025-02-26,Isabel del Capdevila,Colombia,Webcam,3,70,210
+B0395,2025-02-04,Matías Reig Peña,Ecuador,Tablet,2,250,500
+B0396,2025-02-07,Baltasar Cervera,Chile,Silla ergonómica,3,150,450
+B0397,2025-02-02,Carmela Cruz Roda,Argentina,Teclado,2,35,70
+B0398,2025-02-10,José Ángel Ochoa Rodríguez,Colombia,Teclado,2,35,70
+B0399,2025-02-25,Abraham Jordán Leon,Chile,Impresora,1,300,300
+B0400,2025-02-21,Horacio Barreda Cañas,Perú,Impresora,3,300,900
+B0401,2025-02-15,María Dolores Martinez Mas,Colombia,Teclado,3,35,105
+B0402,2025-02-14,Abraham Cózar,Ecuador,Teclado,5,35,175
+B0403,2025-02-13,Isaura Benítez Barroso,Colombia,Impresora,5,300,1500
+B0404,2025-02-15,Víctor Herrero-Ibarra,Colombia,Impresora,1,300,300
+B0405,2025-02-15,Ale de Luna,Colombia,Mouse,1,20,20
+B0406,2025-02-03,Silvia Ema Villena López,Perú,Impresora,4,300,1200
+B0407,2025-02-24,Sara Reyes Cervantes,Chile,Router,5,100,500
+B0408,2025-02-05,Florentina María Belén Ribera Parejo,Argentina,Silla ergonómica,2,150,300
+B0409,2025-02-21,Bernardino Hervia Rosselló,Chile,Router,3,100,300
+B0410,2025-02-13,Miguela Becerra,Ecuador,Teclado,1,35,35
+B0411,2025-02-13,Serafina Alfonso,Perú,Laptop,3,950,2850
+B0412,2025-02-04,Rosaura de Caparrós,Colombia,Audífonos,3,50,150
+B0413,2025-02-13,Zacarías Jenaro Morales Hervia,Argentina,Webcam,4,70,280
+B0414,2025-02-15,Florinda del Oliveras,Perú,Router,5,100,500
+B0415,2025-02-05,Óscar Alonso Amador,Perú,Webcam,1,70,70
+B0416,2025-02-05,Miriam Flores-Tomas,Argentina,Teclado,3,35,105
+B0417,2025-02-17,Susana Puente Moraleda,Perú,Audífonos,1,50,50
+B0418,2025-02-08,Nuria Cepeda,Argentina,Monitor,2,200,400
+B0419,2025-02-20,Leandra Elorza Saavedra,Colombia,Audífonos,4,50,200
+B0420,2025-02-17,Plinio Segarra Zamorano,Chile,Webcam,2,70,140
+B0421,2025-02-18,Camilo Ferrán Villalobos,Perú,Impresora,1,300,300
+B0422,2025-02-22,Nerea Sabina Cabeza Izquierdo,Colombia,Silla ergonómica,1,150,150
+B0423,2025-02-22,Eliseo Avilés Pavón,Chile,Audífonos,5,50,250
+B0424,2025-02-13,Carmelita Real Font,Colombia,Impresora,3,300,900
+B0425,2025-02-17,Albina Viña Solano,Colombia,Audífonos,3,50,150
+B0426,2025-02-04,Asunción Carpio Folch,Ecuador,Silla ergonómica,2,150,300
+B0427,2025-02-12,Blas Mayo Arregui,Chile,Silla ergonómica,4,150,600
+B0428,2025-02-11,Bernabé Barragán-Piquer,Argentina,Teclado,3,35,105
+B0429,2025-02-27,Cayetano Escudero Cueto,Argentina,Laptop,5,950,4750
+B0430,2025-02-01,Ligia Ríos Alvarado,Colombia,Monitor,2,200,400
+B0431,2025-02-17,Dulce Ripoll Llanos,Colombia,Impresora,2,300,600
+B0432,2025-02-15,Prudencia Carbó Pelayo,Ecuador,Webcam,5,70,350
+B0433,2025-02-06,Chucho Sainz Pons,Colombia,Teclado,4,35,140
+B0434,2025-02-10,Pacífica Sola Sureda,Perú,Monitor,5,200,1000
+B0435,2025-02-15,Federico Casanova,Perú,Teclado,4,35,140
+B0436,2025-02-02,Roxana Anita Arregui Marco,Colombia,Webcam,5,70,350
+B0437,2025-02-25,Samuel Andrade Morillo,Ecuador,Router,5,100,500
+B0438,2025-02-06,Rosaura Huerta,Argentina,Router,1,100,100
+B0439,2025-02-10,Rosalinda Cobos Ramos,Argentina,Webcam,2,70,140
+B0440,2025-02-12,Amaro Exposito Alemán,Argentina,Tablet,5,250,1250
+B0441,2025-02-15,Obdulia Cruz Alberola,Colombia,Tablet,5,250,1250
+B0442,2025-02-10,Paula Natividad Hoz Pombo,Ecuador,Audífonos,3,50,150
+B0443,2025-02-10,Azahar Pelayo Zapata,Argentina,Silla ergonómica,2,150,300
+B0444,2025-02-24,Abigaíl Campoy Azcona,Ecuador,Mouse,3,20,60
+B0445,2025-02-17,Carmela de Revilla,Chile,Audífonos,2,50,100
+B0446,2025-02-24,Nazaret Sola Rodriguez,Chile,Silla ergonómica,3,150,450
+B0447,2025-02-10,Yéssica Marquez Alfonso,Ecuador,Silla ergonómica,5,150,750
+B0448,2025-02-26,Catalina Amat-Céspedes,Colombia,Audífonos,5,50,250
+B0449,2025-02-06,Aureliano Amador Alcalá Dominguez,Colombia,Mouse,1,20,20
+B0450,2025-02-06,Benigna Egea Santamaria,Ecuador,Mouse,3,20,60
+B0451,2025-02-20,Eduardo Campillo Font,Perú,Monitor,4,200,800
+B0452,2025-02-22,Eduardo Manuel Tenorio Pons,Argentina,Tablet,1,250,250
+B0453,2025-02-27,Macaria del Sans,Argentina,Silla ergonómica,3,150,450
+B0454,2025-02-21,Felisa Cuevas Ramirez,Argentina,Monitor,3,200,600
+B0455,2025-02-02,Rosenda Sans Salmerón,Colombia,Audífonos,1,50,50
+B0456,2025-02-11,Eusebia de Vera,Colombia,Router,5,100,500
+B0457,2025-02-07,Ascensión Cuervo Rico,Argentina,Tablet,3,250,750
+B0458,2025-02-18,Pepita Rocha Salom,Chile,Audífonos,5,50,250
+B0459,2025-02-01,Purificación Segura Malo,Ecuador,Router,1,100,100
+B0460,2025-02-07,Selena Pedro Ferrández,Ecuador,Impresora,5,300,1500
+B0461,2025-02-15,Tania Sonia Cuadrado Bartolomé,Colombia,Mouse,2,20,40
+B0462,2025-02-08,Rosaura Solé-Vicens,Ecuador,Teclado,4,35,140
+B0463,2025-02-25,Pelayo Miralles Pizarro,Perú,Impresora,3,300,900
+B0464,2025-02-19,Beatriz Montserrat Llamas,Perú,Router,4,100,400
+B0465,2025-02-01,Sigfrido Huguet,Chile,Tablet,5,250,1250
+B0466,2025-02-18,Roldán Rius Rueda,Colombia,Audífonos,3,50,150
+B0467,2025-02-14,Wilfredo Santana-Iglesias,Colombia,Mouse,5,20,100
+B0468,2025-02-23,Celestino Ochoa Duarte,Colombia,Router,2,100,200
+B0469,2025-02-27,Erasmo Ródenas-Ibáñez,Perú,Mouse,1,20,20
+B0470,2025-02-03,Adrián Carretero Garcia,Perú,Laptop,3,950,2850
+B0471,2025-02-23,Rodrigo Arana Lozano,Ecuador,Laptop,2,950,1900
+B0472,2025-02-12,Gastón Jaume-Pulido,Perú,Mouse,2,20,40
+B0473,2025-02-02,Edmundo Jove-Pomares,Chile,Monitor,3,200,600
+B0474,2025-02-18,José Mínguez Marín,Argentina,Teclado,5,35,175
+B0475,2025-02-27,Benito Jose Miguel Ropero Solera,Argentina,Teclado,2,35,70
+B0476,2025-02-14,Miguel Ángel Novoa Mendizábal,Perú,Tablet,4,250,1000
+B0477,2025-02-11,Marisa Caparrós Montero,Colombia,Router,2,100,200
+B0478,2025-02-18,Bibiana Quintana Cañete,Chile,Webcam,5,70,350
+B0479,2025-02-01,Elodia Villalonga Gomila,Chile,Teclado,5,35,175
+B0480,2025-02-02,Ignacia Ibarra-Martinez,Colombia,Webcam,4,70,280
+B0481,2025-02-21,Delfina Marin Canales,Ecuador,Silla ergonómica,2,150,300
+B0482,2025-02-21,Remigio Miguel Ángel Barreda Castilla,Chile,Router,5,100,500
+B0483,2025-02-09,Coral Figueroa Catalán,Argentina,Webcam,3,70,210
+B0484,2025-02-10,Manolo Catalán Beltran,Colombia,Laptop,1,950,950
+B0485,2025-02-27,Poncio Sabater-Carvajal,Chile,Monitor,1,200,200
+B0486,2025-02-01,Felipe Barba Álamo,Perú,Mouse,1,20,20
+B0487,2025-02-24,Ainoa Barceló,Argentina,Mouse,2,20,40
+B0488,2025-02-03,Rosa Casals,Argentina,Teclado,4,35,140
+B0489,2025-02-27,Leyre Alcaraz Pozo,Perú,Audífonos,5,50,250
+B0490,2025-02-09,Leocadio Hernando Solana,Chile,Router,3,100,300
+B0491,2025-02-11,Luisina del Carreño,Ecuador,Impresora,3,300,900
+B0492,2025-02-06,Vidal Lillo Losada,Colombia,Tablet,2,250,500
+B0493,2025-02-14,África Calderon Domingo,Perú,Silla ergonómica,1,150,150
+B0494,2025-02-10,Pánfilo Maximiano Tejero Isern,Colombia,Silla ergonómica,2,150,300
+B0495,2025-02-22,Leocadio Llanos Prado,Colombia,Silla ergonómica,4,150,600
+B0496,2025-02-22,Bonifacio Benavides Arregui,Ecuador,Audífonos,4,50,200
+B0497,2025-02-07,Amor Ordóñez,Perú,Router,5,100,500
+B0498,2025-02-12,Prudencio Palomo-Martín,Argentina,Teclado,5,35,175
+B0499,2025-02-09,Armando del Sebastián,Perú,Silla ergonómica,4,150,600
+B0500,2025-02-03,Sol Bello Guardia,Argentina,Mouse,4,20,80
+B0501,2025-02-08,Maricela Leiva,Chile,Audífonos,4,50,200
+B0502,2025-02-21,Lina Guardiola-Carreño,Ecuador,Monitor,2,200,400
+B0503,2025-02-10,Eusebia María Carmen Buendía Garay,Perú,Mouse,4,20,80
+B0504,2025-02-01,Chus Mancebo Alcázar,Chile,Audífonos,3,50,150
+B0505,2025-02-26,Gala Santamaria Santos,Chile,Tablet,1,250,250
+B0506,2025-02-26,Pili Alvarez-Vargas,Colombia,Webcam,4,70,280
+B0507,2025-02-01,Alfonso Valentín Reyes,Argentina,Teclado,1,35,35
+B0508,2025-02-11,Primitiva Dominguez Herrero,Argentina,Webcam,2,70,140
+B0509,2025-02-03,Guadalupe Salinas-Anguita,Colombia,Teclado,1,35,35
+B0510,2025-02-20,Tecla José Garrido Español,Colombia,Tablet,2,250,500
+B0511,2025-02-20,Florencio Yáñez Acevedo,Chile,Tablet,3,250,750
+B0512,2025-02-22,Cruz Benavides Mora,Chile,Router,2,100,200
+B0513,2025-02-20,Teresita Arranz Merino,Perú,Teclado,2,35,70
+B0514,2025-02-16,Delfina Gisbert Mendez,Chile,Audífonos,5,50,250
+B0515,2025-02-17,Prudencia del Ferrández,Colombia,Silla ergonómica,4,150,600
+B0516,2025-02-15,Pastora Hurtado,Ecuador,Audífonos,4,50,200
+B0517,2025-02-27,María José Mármol Aguilera,Ecuador,Router,3,100,300
+B0518,2025-02-25,Goyo Villaverde,Chile,Monitor,3,200,600
+B0519,2025-02-12,Sebastián Teodoro Pavón Nieto,Colombia,Tablet,4,250,1000
+B0520,2025-02-25,María Pilar Cordero Bautista,Argentina,Router,5,100,500
+B0521,2025-02-18,Nydia Pareja Saldaña,Colombia,Router,4,100,400
+B0522,2025-02-25,Emilia Robledo Castañeda,Colombia,Router,5,100,500
+B0523,2025-02-22,Héctor Pablo Donaire,Colombia,Teclado,3,35,105
+B0524,2025-02-03,Timoteo Frías Arroyo,Ecuador,Silla ergonómica,1,150,150
+B0525,2025-02-25,María Cristina Emiliana Amaya Gracia,Ecuador,Monitor,3,200,600
+B0526,2025-02-09,Gervasio Carranza Mesa,Perú,Laptop,3,950,2850
+B0527,2025-02-06,Javiera del Batlle,Perú,Monitor,2,200,400
+B0528,2025-02-18,Ibán Verdú Luz,Argentina,Impresora,2,300,600
+B0529,2025-02-15,Eligio Llano Fabra,Chile,Router,2,100,200
+B0530,2025-02-22,Luciano de Buendía,Argentina,Router,2,100,200
+B0531,2025-02-13,Catalina Olivares Orozco,Argentina,Tablet,5,250,1250
+B0532,2025-02-26,Noé Tur Riba,Ecuador,Silla ergonómica,4,150,600
+B0533,2025-02-24,Candela Llamas-Carbonell,Ecuador,Impresora,1,300,300
+B0534,2025-02-10,Ana Sofía Cerdá Azorin,Argentina,Audífonos,3,50,150
+B0535,2025-02-16,Encarnación Blanch Huertas,Argentina,Laptop,5,950,4750
+B0536,2025-02-16,Eugenia Fuertes Bárcena,Colombia,Tablet,1,250,250
+B0537,2025-02-07,Eugenio de Machado,Chile,Webcam,5,70,350
+B0538,2025-02-13,Demetrio Llano Agustín,Ecuador,Monitor,5,200,1000
+B0539,2025-02-18,Toño Gabino Castellanos Flores,Perú,Laptop,3,950,2850
+B0540,2025-02-27,Loida Luna Trillo Zorrilla,Colombia,Impresora,4,300,1200
+B0541,2025-02-09,Fátima Aurora Esteve Sastre,Perú,Mouse,2,20,40
+B0542,2025-02-03,Albino Noguera Sala,Colombia,Mouse,4,20,80
+B0543,2025-02-03,Cloe Juliá Zapata,Chile,Monitor,3,200,600
+B0544,2025-02-12,Evaristo Vilanova Paniagua,Argentina,Audífonos,3,50,150
+B0545,2025-02-20,Xavier Bonet Alcaraz,Argentina,Webcam,3,70,210
+B0546,2025-02-09,Antonio Aznar Sáez,Chile,Silla ergonómica,1,150,150
+B0547,2025-02-06,Modesto Felipe Benavent Armas,Chile,Monitor,4,200,800
+B0548,2025-02-06,Régulo Piña Montoya,Chile,Laptop,4,950,3800
+B0549,2025-02-10,Celestino Pulido Valenzuela,Argentina,Audífonos,5,50,250
+B0550,2025-02-19,Custodio Llabrés Carro,Argentina,Impresora,5,300,1500
+B0551,2025-02-01,Marciano Jáuregui Viana,Argentina,Tablet,5,250,1250
+B0552,2025-02-08,Eusebia Ocaña Lerma,Chile,Audífonos,3,50,150
+B0553,2025-02-07,Rómulo Carballo,Perú,Impresora,4,300,1200
+B0554,2025-02-26,Heraclio Rivero Cornejo,Argentina,Impresora,3,300,900
+B0555,2025-02-10,María Luisa Susanita Ramírez Martín,Argentina,Mouse,1,20,20
+B0556,2025-02-18,Flora Juárez Guzmán,Chile,Webcam,5,70,350
+B0557,2025-02-11,Eugenia Casanovas-Donaire,Ecuador,Impresora,3,300,900
+B0558,2025-02-04,Leocadio Mariño,Chile,Teclado,3,35,105
+B0559,2025-02-27,Jerónimo Palomar,Chile,Teclado,1,35,35
+B0560,2025-02-20,Cosme Armas Sanz,Perú,Monitor,2,200,400
+B0561,2025-02-25,Eugenio Quintanilla,Colombia,Router,4,100,400
+B0562,2025-02-03,Goyo Landa Peláez,Chile,Silla ergonómica,2,150,300
+B0563,2025-02-19,Vito Martí Sanabria,Perú,Webcam,5,70,350
+B0564,2025-02-25,Remigio Borrás Pacheco,Colombia,Router,3,100,300
+B0565,2025-02-03,Eutimio Varela Torre,Ecuador,Mouse,1,20,20
+B0566,2025-02-21,Sancho Benavent,Colombia,Tablet,1,250,250
+B0567,2025-02-21,Vidal Carbonell Múgica,Perú,Audífonos,4,50,200
+B0568,2025-02-23,Alonso Bermudez Juárez,Colombia,Router,2,100,200
+B0569,2025-02-03,Concepción Pintor,Perú,Silla ergonómica,4,150,600
+B0570,2025-02-16,Melisa Campos Amat,Ecuador,Mouse,3,20,60
+B0571,2025-02-05,Arcelia Nogués Guitart,Colombia,Audífonos,4,50,200
+B0572,2025-02-23,Leonor Ureña Prada,Ecuador,Tablet,1,250,250
+B0573,2025-02-15,Pastor Barba Sáenz,Colombia,Monitor,1,200,200
+B0574,2025-02-08,Beatriz Clavero,Colombia,Monitor,5,200,1000
+B0575,2025-02-07,Rafael Solano Calzada,Colombia,Impresora,5,300,1500
+B0576,2025-02-04,Manuel Diéguez Acuña,Perú,Impresora,3,300,900
+B0577,2025-02-17,Jesús Alemany Roura,Perú,Tablet,2,250,500
+B0578,2025-02-20,Chelo María Carmen Cid Tejero,Argentina,Teclado,4,35,140
+B0579,2025-02-20,Paz Cámara Torrents,Argentina,Router,3,100,300
+B0580,2025-02-13,Felisa Hidalgo Amat,Perú,Laptop,5,950,4750
+B0581,2025-02-27,Clímaco Segarra Mateu,Ecuador,Mouse,4,20,80
+B0582,2025-02-27,Jesusa Abellán-Quintana,Colombia,Laptop,5,950,4750
+B0583,2025-02-08,Rico Solé,Ecuador,Teclado,4,35,140
+B0584,2025-02-25,Jesús Catalán Ibañez,Colombia,Router,2,100,200
+B0585,2025-02-06,Sandra de Pedro,Ecuador,Webcam,3,70,210
+B0586,2025-02-04,Jonatan Valls Verdejo,Chile,Teclado,4,35,140
+B0587,2025-02-23,Ignacio Campillo Marí,Perú,Teclado,1,35,35
+B0588,2025-02-27,Fabián Camacho,Perú,Mouse,1,20,20
+B0589,2025-02-24,Graciela Ordóñez Román,Perú,Impresora,4,300,1200
+B0590,2025-02-22,Paola Iniesta-Zamora,Ecuador,Audífonos,4,50,200
+B0591,2025-02-19,Daniel Castañeda,Chile,Laptop,4,950,3800
+B0592,2025-02-14,Clímaco Moles Sevilla,Colombia,Impresora,1,300,300
+B0593,2025-02-09,Valero Figuerola Moll,Chile,Webcam,1,70,70
+B0594,2025-02-19,Florinda Cuesta Abella,Ecuador,Mouse,4,20,80
+B0595,2025-02-24,Tamara Durán Pinedo,Ecuador,Monitor,5,200,1000
+B0596,2025-02-01,Lupita Aramburu-Uría,Colombia,Mouse,5,20,100
+B0597,2025-02-04,Jose Antonio Amador Gargallo,Chile,Silla ergonómica,2,150,300
+B0598,2025-02-26,David Osuna Marí,Chile,Tablet,3,250,750
+B0599,2025-02-24,José María Paredes Villa,Colombia,Laptop,5,950,4750
+B0600,2025-02-05,Hipólito Bernat Fuertes,Ecuador,Audífonos,1,50,50
+B0601,2025-02-01,Melisa Guzmán Ros,Ecuador,Webcam,5,70,350
+B0602,2025-02-27,Victorino Vigil-Sans,Chile,Router,2,100,200
+B0603,2025-02-08,Eusebio Quero,Ecuador,Monitor,2,200,400
+B0604,2025-02-12,Fanny Paredes Fiol,Colombia,Mouse,3,20,60
+B0605,2025-02-05,Bonifacio Bustos Jurado,Ecuador,Mouse,5,20,100
+B0606,2025-02-10,Joaquina Hernández Pablo,Perú,Audífonos,1,50,50
+B0607,2025-02-10,Eliana Jenny Ferreras Lluch,Perú,Teclado,1,35,35
+B0608,2025-02-24,Noa Chico Pina,Colombia,Teclado,4,35,140
+B0609,2025-02-15,Charo Carrillo,Chile,Mouse,1,20,20
+B0610,2025-02-21,Ignacia de Villar,Argentina,Silla ergonómica,3,150,450
+B0611,2025-02-11,Cecilio Solera Vergara,Ecuador,Silla ergonómica,3,150,450
+B0612,2025-02-13,Candelas Amigó Escalona,Chile,Router,1,100,100
+B0613,2025-02-22,Patricio de Bayona,Perú,Monitor,1,200,200
+B0614,2025-02-27,Aarón Roca Arregui,Chile,Webcam,4,70,280
+B0615,2025-02-10,Juan Pablo Manzanares Ramón,Argentina,Router,1,100,100
+B0616,2025-02-23,Anacleto Girón Blanco,Chile,Mouse,4,20,80
+B0617,2025-02-20,Amalia Mata-Reguera,Ecuador,Teclado,4,35,140
+B0618,2025-02-19,Salomón Badía Cueto,Ecuador,Silla ergonómica,1,150,150
+B0619,2025-02-14,Valeria Sobrino Frutos,Colombia,Audífonos,2,50,100
+B0620,2025-02-16,Rafael Sales Torralba,Colombia,Audífonos,2,50,100
+B0621,2025-02-26,Eugenio Morante Corral,Chile,Monitor,4,200,800
+B0622,2025-02-26,Pili Girona Dalmau,Perú,Mouse,1,20,20
+B0623,2025-02-07,Mónica Rosa Coello,Chile,Tablet,2,250,500
+B0624,2025-02-10,Santiago Milla Sola,Argentina,Silla ergonómica,1,150,150
+B0625,2025-02-20,Alonso Pou-Coll,Argentina,Impresora,1,300,300
+B0626,2025-02-06,Régulo Baena Caparrós,Ecuador,Impresora,1,300,300
+B0627,2025-02-16,Heliodoro Beltrán Roma,Chile,Tablet,5,250,1250
+B0628,2025-02-27,Amanda Larrea Ferrera,Argentina,Tablet,1,250,250
+B0629,2025-02-20,Ricardo Falcón Nicolás,Chile,Webcam,5,70,350
+B0630,2025-02-20,Omar Vigil Nuñez,Perú,Laptop,4,950,3800
+B0631,2025-02-15,Angelino Monreal Miralles,Chile,Router,2,100,200
+B0632,2025-02-19,Severino Carbó Marquez,Colombia,Mouse,2,20,40
+B0633,2025-02-03,Sarita Gárate Meléndez,Chile,Router,2,100,200
+B0634,2025-02-09,Cebrián de Alarcón,Argentina,Mouse,2,20,40
+B0635,2025-02-19,Rebeca del Estevez,Argentina,Laptop,2,950,1900
+B0636,2025-02-01,Kike Narváez Lladó,Perú,Audífonos,2,50,100
+B0637,2025-02-05,Martirio Pareja Rivero,Chile,Webcam,2,70,140
+B0638,2025-02-08,Elvira Egea-Marín,Argentina,Webcam,4,70,280
+B0639,2025-02-01,Sigfrido Piñol España,Perú,Tablet,1,250,250
+B0640,2025-02-15,Reina de Pastor,Chile,Router,3,100,300
+B0641,2025-02-05,Florinda Serra Pallarès,Ecuador,Laptop,5,950,4750
+B0642,2025-02-02,Glauco Pastor Fortuny,Argentina,Mouse,3,20,60
+B0643,2025-02-16,Blanca Téllez,Ecuador,Impresora,3,300,900
+B0644,2025-02-10,Adelina Pelayo Cabello,Chile,Laptop,1,950,950
+B0645,2025-02-23,Regina Cabañas,Ecuador,Webcam,1,70,70
+B0646,2025-02-07,Rocío Barrera Soria,Argentina,Impresora,1,300,300
+B0647,2025-02-22,Martin Hector Flor Amo,Argentina,Webcam,2,70,140
+B0648,2025-02-25,Flavio Galindo,Colombia,Webcam,4,70,280
+B0649,2025-02-13,Teodoro Albero Carrera,Ecuador,Tablet,2,250,500
+B0650,2025-02-16,Kike Real Verdejo,Argentina,Silla ergonómica,4,150,600
+B0651,2025-02-26,Cándida Navas Laguna,Chile,Impresora,4,300,1200
+B0652,2025-02-09,Nazaret Heredia,Ecuador,Impresora,3,300,900
+B0653,2025-02-22,Benjamín Alegria Oliva,Ecuador,Tablet,3,250,750
+B0654,2025-02-02,Toribio Bárcena-Ramón,Chile,Teclado,4,35,140
+B0655,2025-02-18,Victorino Benavente,Argentina,Audífonos,4,50,200
+B0656,2025-02-13,Fortunata Martí Río,Colombia,Silla ergonómica,2,150,300
+B0657,2025-02-06,Plinio Linares Almeida,Ecuador,Impresora,2,300,600
+B0658,2025-02-15,Ignacia Cortés Fonseca,Colombia,Monitor,3,200,600
+B0659,2025-02-25,Calista Flores Viña,Ecuador,Monitor,1,200,200
+B0660,2025-02-23,Dolores Vilalta Calatayud,Ecuador,Webcam,4,70,280
+B0661,2025-02-20,Samu Bernal Guardiola,Ecuador,Router,2,100,200
+B0662,2025-02-04,Bernardino del Bou,Argentina,Silla ergonómica,3,150,450
+B0663,2025-02-09,Felipe Tamarit Barrios,Ecuador,Impresora,2,300,600
+B0664,2025-02-22,Leticia Estrada Rodrigo,Chile,Mouse,4,20,80
+B0665,2025-02-08,Lilia Salvà Paredes,Ecuador,Teclado,4,35,140
+B0666,2025-02-26,Quique Girona-Rosell,Ecuador,Teclado,5,35,175
+B0667,2025-02-05,Ximena Benavente Ropero,Colombia,Audífonos,1,50,50
+B0668,2025-02-16,Ismael Solsona Ferrando,Argentina,Tablet,5,250,1250
+B0669,2025-02-13,Alfredo Losa Chamorro,Perú,Teclado,3,35,105
+B0670,2025-02-01,Fulgencio García-Clemente,Perú,Teclado,2,35,70
+B0671,2025-02-26,Graciela Acosta Zabala,Perú,Mouse,3,20,60
+B0672,2025-02-01,Manolo Gibert Gimenez,Ecuador,Audífonos,4,50,200
+B0673,2025-02-04,Aurelia Saez Sanjuan,Colombia,Impresora,5,300,1500
+B0674,2025-02-23,Jerónimo Esteve Villanueva,Argentina,Mouse,5,20,100
+B0675,2025-02-03,Eulalia Huerta Trujillo,Perú,Silla ergonómica,5,150,750
+B0676,2025-02-19,Maximiliano Barrios Vall,Ecuador,Router,3,100,300
+B0677,2025-02-20,Graciela Tormo-Portero,Colombia,Tablet,4,250,1000
+B0678,2025-02-09,Alcides Espejo Caparrós,Perú,Laptop,2,950,1900
+B0679,2025-02-10,Javi Carmelo Belmonte Falcó,Colombia,Silla ergonómica,2,150,300
+B0680,2025-02-15,Saturnino Agudo Garcia,Chile,Audífonos,3,50,150
+B0681,2025-02-23,Sara Ruiz Reig,Chile,Impresora,5,300,1500
+B0682,2025-02-15,Néstor Pazos Barco,Ecuador,Silla ergonómica,1,150,150
+B0683,2025-02-01,Danilo Quirós Cervantes,Ecuador,Monitor,3,200,600
+B0684,2025-02-12,Cleto del Raya,Argentina,Laptop,3,950,2850
+B0685,2025-02-12,Ciriaco Tirado Feliu,Ecuador,Laptop,4,950,3800
+B0686,2025-02-09,Pastora Briones Villena,Chile,Laptop,2,950,1900
+B0687,2025-02-01,Casemiro Julián Plaza Matas,Colombia,Audífonos,3,50,150
+B0688,2025-02-06,Santos Mayol,Colombia,Teclado,3,35,105
+B0689,2025-02-08,Valero Vera,Chile,Laptop,5,950,4750
+B0690,2025-02-07,Armando Sánchez Marí,Argentina,Webcam,5,70,350
+B0691,2025-02-05,Merche Gaya Urrutia,Chile,Audífonos,1,50,50
+B0692,2025-02-11,Geraldo del Puga,Chile,Webcam,4,70,280
+B0693,2025-02-13,Genoveva Valderrama Redondo,Perú,Impresora,1,300,300
+B0694,2025-02-19,Aurelia Luz Abella Sevilla,Ecuador,Silla ergonómica,5,150,750
+B0695,2025-02-03,Gustavo Sanjuan Pozuelo,Perú,Mouse,2,20,40
+B0696,2025-02-03,Florencio Montero Galvez,Argentina,Laptop,5,950,4750
+B0697,2025-02-03,Merche Belmonte Aramburu,Chile,Monitor,4,200,800
+B0698,2025-02-05,Ximena Busquets Osorio,Argentina,Laptop,5,950,4750
+B0699,2025-02-16,Cándida Batalla,Colombia,Mouse,4,20,80
+B0700,2025-02-09,Valeria Vives-Cervera,Colombia,Impresora,4,300,1200
+B0701,2025-02-07,Faustino Expósito Borrás,Perú,Audífonos,4,50,200
+B0702,2025-02-17,Wálter de Narváez,Ecuador,Tablet,4,250,1000
+B0703,2025-02-10,León del Alba,Colombia,Laptop,4,950,3800
+B0704,2025-02-13,Gregorio Pellicer Palomar,Perú,Monitor,2,200,400
+B0705,2025-02-12,Sandra Luz Pareja,Perú,Silla ergonómica,1,150,150
+B0706,2025-02-13,Josep Benítez Ribera,Perú,Silla ergonómica,3,150,450
+B0707,2025-02-10,Hilario Roldan Tenorio,Chile,Router,1,100,100
+B0708,2025-02-05,Anastasio Acedo-Bastida,Perú,Silla ergonómica,4,150,600
+B0709,2025-02-22,Custodia Garay-Benavente,Colombia,Monitor,2,200,400
+B0710,2025-02-22,Fortunata Naranjo Cruz,Argentina,Monitor,5,200,1000
+B0711,2025-02-05,Mamen Arregui Larrañaga,Chile,Laptop,2,950,1900
+B0712,2025-02-13,Adriana de Briones,Colombia,Laptop,4,950,3800
+B0713,2025-02-21,Elisa de Daza,Chile,Tablet,2,250,500
+B0714,2025-02-21,Clímaco Villalba Salvà,Perú,Laptop,2,950,1900
+B0715,2025-02-12,Luis Ángel Osuna Almansa,Perú,Laptop,4,950,3800
+B0716,2025-02-11,Cleto Morera,Colombia,Impresora,2,300,600
+B0717,2025-02-04,Merche Garrido,Ecuador,Monitor,3,200,600
+B0718,2025-02-09,Aurora Tejedor Benavente,Argentina,Monitor,3,200,600
+B0719,2025-02-10,Teófila Muñoz,Colombia,Router,2,100,200
+B0720,2025-02-09,Juanita Oliveras,Ecuador,Teclado,5,35,175
+B0721,2025-02-07,Ámbar Moreno Domingo,Perú,Mouse,4,20,80
+B0722,2025-02-06,Rosa María Ródenas Puerta,Ecuador,Monitor,3,200,600
+B0723,2025-02-11,Cándido Graciano Morata Bonet,Argentina,Webcam,5,70,350
+B0724,2025-02-22,Eric Juan Flores,Perú,Router,2,100,200
+B0725,2025-02-05,Venceslás Torrijos Vila,Ecuador,Silla ergonómica,5,150,750
+B0726,2025-02-12,Teresita Gascón Ortega,Ecuador,Tablet,1,250,250
+B0727,2025-02-19,Melisa Madrid Tamarit,Chile,Webcam,3,70,210
+B0728,2025-02-19,Juliana Estrada Santos,Ecuador,Silla ergonómica,2,150,300
+B0729,2025-02-24,Olga Perez Pujadas,Argentina,Laptop,4,950,3800
+B0730,2025-02-24,María Luisa Padilla Palacio,Colombia,Teclado,2,35,70
+B0731,2025-02-01,Ulises del Gual,Chile,Impresora,4,300,1200
+B0732,2025-02-21,Urbano Tormo Arenas,Perú,Audífonos,2,50,100
+B0733,2025-02-22,Áurea Colom Pinilla,Colombia,Audífonos,5,50,250
+B0734,2025-02-06,Edu Hernandez Abascal,Perú,Router,5,100,500
+B0735,2025-02-24,Angelino Camacho Valentín,Perú,Monitor,5,200,1000
+B0736,2025-02-09,Herberto Moreno Ariza,Ecuador,Monitor,1,200,200
+B0737,2025-02-07,Natalio Basilio Macias Bárcena,Chile,Silla ergonómica,4,150,600
+B0738,2025-02-22,Quique del Ocaña,Ecuador,Teclado,5,35,175
+B0739,2025-02-04,Sabina Nevado Barrera,Ecuador,Teclado,1,35,35
+B0740,2025-02-05,Lupita de Castañeda,Colombia,Router,4,100,400
+B0741,2025-02-12,Elías Garriga-Torrecilla,Perú,Webcam,2,70,140
+B0742,2025-02-09,Anacleto Hoz Tamayo,Ecuador,Tablet,1,250,250
+B0743,2025-02-11,Benita Barros-Ferrer,Perú,Monitor,3,200,600
+B0744,2025-02-20,Mar Nuñez-Priego,Colombia,Impresora,1,300,300
+B0745,2025-02-23,Adelina Casal Barros,Colombia,Impresora,1,300,300
+B0746,2025-02-26,Casemiro Tormo Ramón,Ecuador,Mouse,4,20,80
+B0747,2025-02-19,Delia Alcolea,Chile,Impresora,2,300,600
+B0748,2025-02-18,Eric Quero,Argentina,Laptop,3,950,2850
+B0749,2025-02-21,Reina Sala,Chile,Audífonos,5,50,250
+B0750,2025-02-04,Toni Llorente,Chile,Mouse,5,20,100
+B0751,2025-02-21,Eutropio Bermejo Herranz,Chile,Audífonos,1,50,50
+B0752,2025-02-05,Julio César Francisco Javier Gibert Martorell,Colombia,Tablet,4,250,1000
+B0753,2025-02-05,Agapito Coloma Tamarit,Ecuador,Impresora,4,300,1200
+B0754,2025-02-06,Paulino Vila Figueroa,Perú,Teclado,5,35,175
+B0755,2025-02-12,Leire Manuel Amigó,Ecuador,Webcam,3,70,210
+B0756,2025-02-25,Pili Mateos Rojas,Colombia,Tablet,2,250,500
+B0757,2025-02-16,América Vidal Expósito,Argentina,Monitor,3,200,600
+B0758,2025-02-09,Aitana Barón Aliaga,Ecuador,Router,2,100,200
+B0759,2025-02-21,Iván Lorenzo,Ecuador,Teclado,5,35,175
+B0760,2025-02-27,Buenaventura Rios Tejera,Ecuador,Laptop,2,950,1900
+B0761,2025-02-16,Adela Palau-Gilabert,Ecuador,Monitor,4,200,800
+B0762,2025-02-25,Vilma Cruz Isern,Chile,Monitor,1,200,200
+B0763,2025-02-21,Eric Córdoba-Cerdá,Colombia,Audífonos,1,50,50
+B0764,2025-02-16,Silvio Bernal Pardo,Ecuador,Silla ergonómica,5,150,750
+B0765,2025-02-27,Palmira Hierro-Batalla,Argentina,Impresora,4,300,1200
+B0766,2025-02-06,Cristina Visitación Carvajal Andreu,Ecuador,Laptop,3,950,2850
+B0767,2025-02-16,Nazaret Lucas Becerra,Ecuador,Monitor,4,200,800
+B0768,2025-02-19,Elena Amores Millán,Colombia,Teclado,1,35,35
+B0769,2025-02-06,Jenny Duque Gilabert,Ecuador,Audífonos,1,50,50
+B0770,2025-02-18,Cloe Otero-Andreu,Ecuador,Laptop,4,950,3800
+B0771,2025-02-03,Rosalina Ayllón-Arroyo,Colombia,Laptop,4,950,3800
+B0772,2025-02-20,Francisca Calvet Elías,Chile,Silla ergonómica,1,150,150
+B0773,2025-02-19,Brígida Barreda Guerra,Colombia,Webcam,3,70,210
+B0774,2025-02-19,Íñigo Campos Revilla,Colombia,Laptop,5,950,4750
+B0775,2025-02-07,Jenaro Jose Francisco Alsina Girona,Colombia,Webcam,5,70,350
+B0776,2025-02-23,Efraín del Viña,Chile,Audífonos,4,50,200
+B0777,2025-02-25,Óscar Gargallo Porcel,Chile,Teclado,5,35,175
+B0778,2025-02-05,Juan José Pedrero-Fernandez,Perú,Impresora,1,300,300
+B0779,2025-02-16,Angelina Nevado-Matas,Colombia,Teclado,1,35,35
+B0780,2025-02-04,Rosendo Correa Estévez,Ecuador,Silla ergonómica,4,150,600
+B0781,2025-02-06,Ángeles Rosalinda Viña Cardona,Argentina,Silla ergonómica,4,150,600
+B0782,2025-02-27,Abigaíl Bartolomé,Chile,Impresora,4,300,1200
+B0783,2025-02-06,Gervasio Riera Bejarano,Colombia,Webcam,3,70,210
+B0784,2025-02-15,Marisa Valero Egea,Argentina,Router,5,100,500
+B0785,2025-02-25,Martin Carnero-Bejarano,Ecuador,Mouse,4,20,80
+B0786,2025-02-12,José Luis Roman Artigas,Perú,Webcam,2,70,140
+B0787,2025-02-10,Valeria Lluch Badía,Chile,Webcam,2,70,140
+B0788,2025-02-25,María Belén de Mariño,Chile,Tablet,1,250,250
+B0789,2025-02-05,Luis Leal Galiano,Chile,Tablet,5,250,1250
+B0790,2025-02-21,Cloe Nidia Espada Puga,Ecuador,Webcam,4,70,280
+B0791,2025-02-06,Juan Céspedes Barros,Perú,Router,2,100,200
+B0792,2025-02-20,Mercedes Roselló Priego,Argentina,Router,5,100,500
+B0793,2025-02-17,Eliseo Bautista Diez,Perú,Silla ergonómica,1,150,150
+B0794,2025-02-11,Eugenio Dalmau Ponce,Argentina,Audífonos,3,50,150
+B0795,2025-02-07,Chus Losa Bastida,Colombia,Impresora,5,300,1500
+B0796,2025-02-21,Humberto de Echevarría,Chile,Laptop,5,950,4750
+B0797,2025-02-14,Consuelo Amorós,Perú,Silla ergonómica,3,150,450
+B0798,2025-02-13,Roxana Ramón Morcillo,Chile,Laptop,5,950,4750
+B0799,2025-02-15,Lilia Prat-Gimenez,Perú,Laptop,1,950,950
+B0800,2025-02-14,Juan de Lillo,Colombia,Tablet,1,250,250
+B0801,2025-02-01,Anunciación Sala-Gras,Perú,Silla ergonómica,3,150,450
+B0802,2025-02-13,Fermín Vizcaíno Vergara,Chile,Teclado,4,35,140
+B0803,2025-02-26,Olalla Nogués-Rosselló,Ecuador,Monitor,2,200,400
+B0804,2025-02-25,Rosenda Acedo Montero,Chile,Impresora,4,300,1200
+B0805,2025-02-18,Pío Puga Castañeda,Argentina,Laptop,5,950,4750
+B0806,2025-02-07,Margarita Verdú Tolosa,Chile,Silla ergonómica,2,150,300
+B0807,2025-02-23,Laura Emilia Posada Oliver,Colombia,Audífonos,3,50,150
+B0808,2025-02-12,León de Solé,Chile,Teclado,3,35,105
+B0809,2025-02-11,Cintia Álvarez Losada,Chile,Silla ergonómica,2,150,300
+B0810,2025-02-17,Adelina Bienvenida Caparrós Bru,Perú,Audífonos,1,50,50
+B0811,2025-02-21,Luisina Rios López,Argentina,Laptop,2,950,1900
+B0812,2025-02-04,Azeneth Lamas Jordá,Perú,Silla ergonómica,5,150,750
+B0813,2025-02-23,Cornelio Cid Figuerola,Argentina,Teclado,1,35,35
+B0814,2025-02-11,Belén Chamorro Valenzuela,Argentina,Monitor,3,200,600
+B0815,2025-02-21,Martin Osorio Barragán,Colombia,Tablet,2,250,500
+B0816,2025-02-20,Elba Rosselló Gargallo,Perú,Teclado,4,35,140
+B0817,2025-02-14,Godofredo Marti Mármol,Colombia,Laptop,4,950,3800
+B0818,2025-02-07,Evelia Osuna-Zabaleta,Ecuador,Laptop,5,950,4750
+B0819,2025-02-24,Albano Tudela Salvador,Chile,Silla ergonómica,4,150,600
+B0820,2025-02-21,Jonatan Briones Diez,Chile,Laptop,2,950,1900
+B0821,2025-02-03,Paca Abril,Argentina,Router,2,100,200
+B0822,2025-02-05,Aristides Corbacho Jimenez,Ecuador,Audífonos,4,50,200
+B0823,2025-02-16,Hortensia Lucas Torrents,Argentina,Monitor,2,200,400
+B0824,2025-02-11,Fortunata Oliva Uribe,Chile,Audífonos,5,50,250
+B0825,2025-02-21,Íngrid Morales-Serna,Chile,Audífonos,1,50,50
+B0826,2025-02-26,Joel Campillo Jiménez,Ecuador,Laptop,5,950,4750
+B0827,2025-02-18,Dani Frías Sanjuan,Chile,Silla ergonómica,5,150,750
+B0828,2025-02-21,Galo Lamas-Tenorio,Chile,Mouse,2,20,40
+B0829,2025-02-05,Aitor Morante Anaya,Argentina,Audífonos,1,50,50
+B0830,2025-02-23,Alfonso Avilés-Bas,Ecuador,Audífonos,2,50,100
+B0831,2025-02-20,Esmeralda Borja Barbero,Colombia,Silla ergonómica,3,150,450
+B0832,2025-02-11,Baltasar Riera Santiago,Ecuador,Audífonos,2,50,100
+B0833,2025-02-12,Georgina Zorrilla,Perú,Audífonos,2,50,100
+B0834,2025-02-22,Verónica de Tudela,Chile,Teclado,2,35,70
+B0835,2025-02-02,Francisca María Rius Artigas,Colombia,Router,1,100,100
+B0836,2025-02-25,Chuy Armando Alcántara Torrecilla,Perú,Teclado,2,35,70
+B0837,2025-02-24,Luciano Guzmán-Coca,Argentina,Silla ergonómica,1,150,150
+B0838,2025-02-24,Martina Alfaro Franco,Perú,Monitor,4,200,800
+B0839,2025-02-21,Carmela Martin Aguilera,Argentina,Teclado,3,35,105
+B0840,2025-02-22,Lupe Soler Campo,Colombia,Impresora,1,300,300
+B0841,2025-02-05,Beatriz de Guardia,Perú,Teclado,4,35,140
+B0842,2025-02-07,Itziar Martina Taboada Asenjo,Chile,Laptop,1,950,950
+B0843,2025-02-13,Pili Nevado-Frías,Argentina,Webcam,1,70,70
+B0844,2025-02-16,Florentino Chucho Abascal Barba,Argentina,Laptop,3,950,2850
+B0845,2025-02-25,María Ángeles Suarez Valdés,Chile,Silla ergonómica,5,150,750
+B0846,2025-02-13,Eutropio Peralta Fernandez,Perú,Silla ergonómica,5,150,750
+B0847,2025-02-16,Abigaíl Jurado Lerma,Chile,Silla ergonómica,1,150,150
+B0848,2025-02-23,Consuela Garriga Galán,Ecuador,Router,2,100,200
+B0849,2025-02-10,Anastasio Fernandez Cánovas,Chile,Audífonos,4,50,200
+B0850,2025-02-13,Paloma Mur Uría,Ecuador,Monitor,2,200,400
+B0851,2025-02-25,Natividad Casas,Perú,Audífonos,2,50,100
+B0852,2025-02-15,Lucas Ibarra Ibañez,Chile,Mouse,1,20,20
+B0853,2025-02-13,Quirino Pavón,Perú,Router,1,100,100
+B0854,2025-02-17,Febe Mármol,Ecuador,Impresora,1,300,300
+B0855,2025-02-21,Tito Tomé Sandoval,Chile,Monitor,1,200,200
+B0856,2025-02-07,Julián Falcó,Ecuador,Audífonos,5,50,250
+B0857,2025-02-09,Macarena Plana Benitez,Perú,Mouse,1,20,20
+B0858,2025-02-09,Adelardo Pina Tomas,Ecuador,Laptop,5,950,4750
+B0859,2025-02-13,Ángel Velasco-Rey,Colombia,Router,5,100,500
+B0860,2025-02-03,Dalila Cisneros Villanueva,Colombia,Teclado,1,35,35
+B0861,2025-02-15,Raimundo Zurita Sabater,Colombia,Router,3,100,300
+B0862,2025-02-02,Francisco Javier Royo Castillo,Colombia,Audífonos,4,50,200
+B0863,2025-02-01,Jacinto Alonso,Argentina,Webcam,2,70,140
+B0864,2025-02-19,Loreto Cózar Lumbreras,Ecuador,Router,5,100,500
+B0865,2025-02-25,Guadalupe Ibarra Fabra,Argentina,Monitor,4,200,800
+B0866,2025-02-04,Fabiola Ramis Goicoechea,Chile,Router,3,100,300
+B0867,2025-02-03,Fortunato Perelló Gargallo,Ecuador,Laptop,2,950,1900
+B0868,2025-02-25,Juana Franch Carnero,Perú,Laptop,2,950,1900
+B0869,2025-02-08,Soledad Poza-Figuerola,Perú,Impresora,5,300,1500
+B0870,2025-02-13,Maristela Gascón,Ecuador,Mouse,1,20,20
+B0871,2025-02-13,Filomena Trujillo Mínguez,Perú,Teclado,3,35,105
+B0872,2025-02-21,Daniela Vilaplana Benito,Colombia,Teclado,5,35,175
+B0873,2025-02-23,Iván del Cadenas,Ecuador,Tablet,3,250,750
+B0874,2025-02-17,Ruth Andrea Alegre Guitart,Ecuador,Audífonos,1,50,50
+B0875,2025-02-06,Dorotea Crespo Tello,Argentina,Silla ergonómica,1,150,150
+B0876,2025-02-26,Evangelina Bellido,Colombia,Laptop,5,950,4750
+B0877,2025-02-02,Socorro Encarnita Galiano Cepeda,Colombia,Teclado,1,35,35
+B0878,2025-02-22,Maite Larrea Cózar,Argentina,Webcam,4,70,280
+B0879,2025-02-13,Marisela Girona Castañeda,Chile,Laptop,2,950,1900
+B0880,2025-02-24,Jeremías Fonseca,Ecuador,Audífonos,5,50,250
+B0881,2025-02-06,Pablo Salvà Guardiola,Chile,Monitor,3,200,600
+B0882,2025-02-10,Marc Iborra,Colombia,Tablet,4,250,1000
+B0883,2025-02-14,Dafne Alexandra Pellicer Peláez,Argentina,Impresora,5,300,1500
+B0884,2025-02-01,Vicenta Fortuny Vilar,Perú,Impresora,1,300,300
+B0885,2025-02-08,Rosa Ariadna Moles Martí,Chile,Mouse,1,20,20
+B0886,2025-02-02,Otilia Hurtado Mulet,Ecuador,Webcam,1,70,70
+B0887,2025-02-08,Tadeo Maza Clavero,Argentina,Tablet,1,250,250
+B0888,2025-02-04,Sofía Lucena Valera,Colombia,Teclado,3,35,105
+B0889,2025-02-17,Javi Merino Asenjo,Ecuador,Audífonos,4,50,200
+B0890,2025-02-26,Alberto Rovira,Ecuador,Webcam,2,70,140
+B0891,2025-02-26,Anabel Vega Macías,Ecuador,Impresora,3,300,900
+B0892,2025-02-02,Teo Andreu Gascón,Argentina,Router,3,100,300
+B0893,2025-02-03,Anselma Beltran,Chile,Mouse,2,20,40
+B0894,2025-02-16,Florencio Giner-Artigas,Ecuador,Monitor,2,200,400
+B0895,2025-02-13,Gilberto Carretero Pintor,Chile,Impresora,1,300,300
+B0896,2025-02-17,José Mari Ruy Franch Cerezo,Ecuador,Router,3,100,300
+B0897,2025-02-23,Loida Jordá-Montesinos,Ecuador,Impresora,5,300,1500
+B0898,2025-02-18,Francisco Javier Ramón Lobo,Colombia,Router,2,100,200
+B0899,2025-02-02,Isabela Fuente Piñeiro,Colombia,Impresora,2,300,600
+B0900,2025-02-25,Luna Vigil-Nogués,Ecuador,Tablet,4,250,1000
+B0901,2025-02-05,Ángela Castejón Téllez,Colombia,Teclado,5,35,175
+B0902,2025-02-25,Juana Neira Verdejo,Perú,Webcam,5,70,350
+B0903,2025-02-17,Elena Avilés Querol,Perú,Teclado,2,35,70
+B0904,2025-02-12,Amando Rodríguez Viñas,Colombia,Laptop,1,950,950
+B0905,2025-02-15,Blas Caro Feijoo,Perú,Router,4,100,400
+B0906,2025-02-24,Eloísa Fuentes,Colombia,Impresora,5,300,1500
+B0907,2025-02-13,Cesar Izquierdo Jordá,Chile,Impresora,2,300,600
+B0908,2025-02-26,Rolando del Infante,Argentina,Laptop,5,950,4750
+B0909,2025-02-22,Delfina Sacristán-Chamorro,Chile,Mouse,4,20,80
+B0910,2025-02-13,Blas Nevado Batalla,Ecuador,Audífonos,4,50,200
+B0911,2025-02-20,Lorena Santana,Argentina,Webcam,3,70,210
+B0912,2025-02-19,Victoria Valero Pou,Argentina,Monitor,2,200,400
+B0913,2025-02-03,Moreno Morante Juan,Argentina,Laptop,4,950,3800
+B0914,2025-02-01,Laura Ángeles Andres Feliu,Colombia,Tablet,3,250,750
+B0915,2025-02-16,Cosme de Bernat,Colombia,Tablet,3,250,750
+B0916,2025-02-01,Quique Quirós Madrigal,Colombia,Silla ergonómica,5,150,750
+B0917,2025-02-24,Maxi Lloret Giménez,Chile,Router,5,100,500
+B0918,2025-02-14,Ovidio Cabo Gascón,Perú,Mouse,3,20,60
+B0919,2025-02-22,Luisa del Beltrán,Colombia,Laptop,5,950,4750
+B0920,2025-02-09,Gloria Costa Pinilla,Argentina,Silla ergonómica,4,150,600
+B0921,2025-02-18,Renata Río Navarro,Argentina,Silla ergonómica,1,150,150
+B0922,2025-02-19,Teo Diego Morillo Prats,Argentina,Teclado,4,35,140
+B0923,2025-02-13,Genoveva del Olivera,Ecuador,Router,3,100,300
+B0924,2025-02-13,Ana de Garay,Chile,Teclado,3,35,105
+B0925,2025-02-17,Aitana Ochoa Gallego,Chile,Monitor,4,200,800
+B0926,2025-02-14,Guillermo Peral Azcona,Chile,Laptop,5,950,4750
+B0927,2025-02-08,Rolando Ruano Enríquez,Colombia,Mouse,5,20,100
+B0928,2025-02-17,Iván Córdoba Mur,Colombia,Monitor,3,200,600
+B0929,2025-02-08,Moreno Lorenzo Luna Francisco,Chile,Silla ergonómica,2,150,300
+B0930,2025-02-14,Fermín de Guillen,Perú,Audífonos,5,50,250
+B0931,2025-02-08,Carlito Trujillo Nadal,Ecuador,Mouse,4,20,80
+B0932,2025-02-18,Juan Bautista Marín Madrid,Colombia,Tablet,5,250,1250
+B0933,2025-02-21,Leire Sosa Galván,Colombia,Tablet,4,250,1000
+B0934,2025-02-17,Adalberto Sales Cano,Perú,Impresora,3,300,900
+B0935,2025-02-17,Josep del Belmonte,Argentina,Router,5,100,500
+B0936,2025-02-27,Fabiana Aller Vila,Ecuador,Silla ergonómica,4,150,600
+B0937,2025-02-23,César Benavides Estévez,Argentina,Tablet,3,250,750
+B0938,2025-02-21,Lupita Lorenzo Alegria,Colombia,Mouse,2,20,40
+B0939,2025-02-26,Candelas Blasco Boix,Colombia,Teclado,4,35,140
+B0940,2025-02-16,Jordi Echevarría,Chile,Silla ergonómica,2,150,300
+B0941,2025-02-24,Noemí Llobet Abascal,Argentina,Silla ergonómica,2,150,300
+B0942,2025-02-18,Diana de Bautista,Ecuador,Mouse,1,20,20
+B0943,2025-02-27,Wilfredo Torrijos Marí,Argentina,Mouse,5,20,100
+B0944,2025-02-08,Albert Enrique Salom Revilla,Perú,Tablet,4,250,1000
+B0945,2025-02-12,Herminio Benjamín Izaguirre Paz,Perú,Webcam,2,70,140
+B0946,2025-02-19,Iker Agustín-Román,Perú,Webcam,1,70,70
+B0947,2025-02-09,Fabiana Marina Arana Paz,Colombia,Silla ergonómica,3,150,450
+B0948,2025-02-22,Gabino Lledó,Argentina,Router,4,100,400
+B0949,2025-02-25,Mateo Arias Gracia,Ecuador,Teclado,2,35,70
+B0950,2025-02-11,Lucio Peñas Santamaría,Perú,Webcam,5,70,350
+B0951,2025-02-06,Encarnita Garcés Castejón,Chile,Silla ergonómica,1,150,150
+B0952,2025-02-27,Nayara Andrade Ortiz,Argentina,Webcam,2,70,140
+B0953,2025-02-27,Teo Puerta Casado,Ecuador,Webcam,5,70,350
+B0954,2025-02-19,Balduino del Velasco,Perú,Monitor,2,200,400
+B0955,2025-02-09,Nacio Sevillano,Ecuador,Router,4,100,400
+B0956,2025-02-27,María Cristina Rey Frutos,Perú,Audífonos,4,50,200
+B0957,2025-02-14,Reinaldo Alberto Chaves,Ecuador,Audífonos,4,50,200
+B0958,2025-02-09,Damián Lucas Gálvez Coronado,Perú,Impresora,1,300,300
+B0959,2025-02-27,Jesús Rosado Soriano,Perú,Router,4,100,400
+B0960,2025-02-07,Vanesa Ibañez Haro,Ecuador,Monitor,5,200,1000
+B0961,2025-02-22,Benita Crespi Gascón,Chile,Impresora,2,300,600
+B0962,2025-02-15,Eliana Murcia Tovar,Colombia,Audífonos,3,50,150
+B0963,2025-02-02,Melchor Ángel Bou,Perú,Webcam,5,70,350
+B0964,2025-02-07,Lilia Mendoza Vera,Argentina,Mouse,5,20,100
+B0965,2025-02-07,Sigfrido Martí Cañizares,Chile,Router,4,100,400
+B0966,2025-02-22,Nicolás Pedro,Chile,Webcam,1,70,70
+B0967,2025-02-26,Eugenia Mayoral Pujadas,Colombia,Tablet,2,250,500
+B0968,2025-02-05,Angelino del Díez,Perú,Laptop,1,950,950
+B0969,2025-02-17,Noé Olmo-Morcillo,Argentina,Teclado,2,35,70
+B0970,2025-02-16,Juan Pablo Pinto Ponce,Ecuador,Impresora,2,300,600
+B0971,2025-02-02,Galo Baquero Rivas,Argentina,Webcam,1,70,70
+B0972,2025-02-12,María Ángeles Tamarit Perez,Chile,Tablet,5,250,1250
+B0973,2025-02-25,Moisés Ferrándiz Tamayo,Argentina,Laptop,2,950,1900
+B0974,2025-02-07,Ambrosio del Jordán,Chile,Monitor,1,200,200
+B0975,2025-02-19,Rita Cárdenas Manrique,Chile,Laptop,2,950,1900
+B0976,2025-02-26,Raimundo Salazar Alvarado,Chile,Laptop,3,950,2850
+B0977,2025-02-06,Nacio Gomis,Colombia,Laptop,5,950,4750
+B0978,2025-02-14,Alma Casado Manjón,Perú,Monitor,4,200,800
+B0979,2025-02-23,Eusebia Morell-Carro,Perú,Audífonos,2,50,100
+B0980,2025-02-07,Natalia Solsona-Mosquera,Colombia,Tablet,3,250,750
+B0981,2025-02-22,Lina Sáenz Beltran,Colombia,Mouse,4,20,80
+B0982,2025-02-21,Faustino Campos Abad,Ecuador,Monitor,4,200,800
+B0983,2025-02-13,Cayetana Vega Perea,Perú,Router,2,100,200
+B0984,2025-02-26,Constanza Rico-Infante,Argentina,Router,1,100,100
+B0985,2025-02-09,Blanca de Cañete,Chile,Router,2,100,200
+B0986,2025-02-19,Edelmiro Alemán Ramón,Argentina,Tablet,3,250,750
+B0987,2025-02-01,Julio César Ibáñez Borrego,Perú,Audífonos,4,50,200
+B0988,2025-02-26,Maximiliano Mate,Chile,Impresora,2,300,600
+B0989,2025-02-16,Sebastian Mate Vizcaíno,Ecuador,Impresora,1,300,300
+B0990,2025-02-23,Reina Almeida Estevez,Ecuador,Webcam,2,70,140
+B0991,2025-02-23,Amor Aramburu Torrecilla,Ecuador,Teclado,5,35,175
+B0992,2025-02-12,María Ángeles Miró,Argentina,Monitor,1,200,200
+B0993,2025-02-04,Micaela Olivares Alcántara,Chile,Monitor,3,200,600
+B0994,2025-02-01,Elpidio Salmerón Domínguez,Chile,Impresora,4,300,1200
+B0995,2025-02-08,Visitación de Cañete,Colombia,Tablet,2,250,500
+B0996,2025-02-24,Cleto del Ortiz,Ecuador,Laptop,1,950,950
+B0997,2025-02-19,Cosme Navas-Bernal,Colombia,Teclado,5,35,175
+B0998,2025-02-13,Gracia Robledo Varela,Chile,Silla ergonómica,1,150,150
+B0999,2025-02-15,Abel Bartolomé Torrent,Ecuador,Monitor,5,200,1000
+B1000,2025-02-14,Elías Raúl Carrión Isern,Perú,Silla ergonómica,3,150,450
